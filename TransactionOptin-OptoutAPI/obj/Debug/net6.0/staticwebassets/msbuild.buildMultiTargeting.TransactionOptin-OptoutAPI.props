@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TransactionOptin-OptoutAPI.props" />
+</Project>
